@@ -1,2 +1,48 @@
 body {
-  font-family: "OpenSansItalic", OpenSansItalic, sans-serif; }
+  font-family: "OpenSansItalic", OpenSansItalic, sans-serif;
+  background-color: #edf9f8; }
+
+div {
+  outline: 1px red solid; }
+
+ul {
+  padding: 0;
+  margin: 0; }
+  ul li {
+    padding: 0;
+    margin: 0; }
+
+.column {
+  width: 1230px;
+  margin: 0 auto; }
+
+.head-menu {
+  height: 33px;
+  font-family: "OpenSansRegular", OpenSansRegular, sans-serif; }
+  .head-menu ul {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    font-size: 0; }
+    .head-menu ul li {
+      display: inline-block;
+      height: 100%;
+      line-height: 33px; }
+      .head-menu ul li a {
+        font-size: 14px;
+        text-decoration: none;
+        color: #434343;
+        padding-right: 30px;
+        line-height: 33px; }
+        .head-menu ul li a:hover {
+          color: #8dd9d0; }
+        .head-menu ul li a:before {
+          content: ".";
+          line-height: 33px;
+          display: inline-block;
+          width: 100px;
+          background-color: #000; }
+
+.head-menu-wrap {
+  background-color: #f4fbfb;
+  border-bottom: 1px solid #e5ecec; }
