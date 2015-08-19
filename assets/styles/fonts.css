@@ -160,13 +160,13 @@
     font-weight: normal;
 }
 /**************************************/
-/* font-family: "LatoLightItalic"; */
-/*@font-face {
-    font-family: "BaskervilleRegular";
-    src: url("../fonts/Baskerville/LatoLightItalic/LatoLightItalic.eot");
-    src: url("../fonts/Baskerville/LatoLightItalic/LatoLightItalic.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/Baskerville/LatoLightItalic/LatoLightItalic.woff") format("woff"),
-    url("../fonts/Baskerville/LatoLightItalic/LatoLightItalic.ttf") format("truetype");
+/* font-family: "BaskervilleRegular"; */
+@font-face {
+    font-family: "Baskerville";
+    src: url("../fonts/Baskerville/BASKERV6.eot");
+    src: url("../fonts/Baskerville/BASKERV6.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Baskerville/BASKERV6.woff") format("woff"),
+    url("../fonts/Baskerville/BASKERV6.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
-}*/
+}

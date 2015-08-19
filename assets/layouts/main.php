@@ -56,6 +56,19 @@
 			<ul>
 				<li>
 					<a href="#">Все сумки</a>
+					<div class="hidden-block">
+						<div class="left-block">
+							<div class="title">ВСЕ СУМКИ</div>
+							<ul>
+								<li>Новинки</li>
+								<li>Распродажа</li>
+								<li>Брендовые</li>
+								<li>Кожанные</li>
+								<li>Искуственная кожа</li>
+								<li>Кошельки, акксесуары</li>
+							</ul>
+						</div>
+					</div>
 				</li>
 				<li>
 					<a href="#">В наличии</a>
@@ -155,7 +168,274 @@
 		<div class="section">
 			<div class="title">
 				Новинки
+				<div class="navigation">
+					<div class="navigotion-left"></div>
+					<div class="navigotion-right"></div>
+				</div>
+			</div>
+			<div class="novelty">
+				<div class="novelty-block">
+					<img src="assets/img/novelty-1.jpg" alt="img">
+				</div>
+				<div class="novelty-block">
+					<img src="assets/img/novelty-2.jpg" alt="img">
+				</div>
+				<div class="novelty-block">
+					<img src="assets/img/novelty-3.jpg" alt="img">
+				</div>
 			</div>
 		</div>
 	</div>
+	<!-- section -->
+	<div class="column">
+		<div class="section">
+			<div class="title">
+				Бренды
+				<div class="navigation">
+					<div class="navigotion-left"></div>
+					<div class="navigotion-right"></div>
+				</div>
+			</div>
+			<div class="brands">
+				<div class="brands-block">
+					gsd
+				</div>
+				<div class="brands-block">
+					dsg
+				</div>
+				<div class="brands-block">
+					sdg
+				</div>
+				<div class="brands-block">
+					dsg
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- section -->
+	<div class="column">
+		<div class="section">
+			<div class="title">
+				Распродажа
+				<div class="navigation">
+					<div class="navigotion-left"></div>
+					<div class="navigotion-right"></div>
+				</div>
+			</div>
+			<div class="sell">
+				<div class="sell-block">
+					<div class="sell-img">
+						<img src="assets/img/sell-1.jpg" alt="#">
+					</div>
+					<div class="sell-title">
+						<h4 class="mark">Марка название</h4>
+						<p class="">Описание</p>
+					</div>
+					<div class="sell-panel clearfix">
+						<div class="heart"></div>
+						<div class="gift"></div>
+						<div class="basket"></div>
+						<div class="cost">
+							12099.<span>00</span>
+						</div>
+					</div>
+				</div>
+				<div class="sell-block">
+					<div class="sell-img">
+						<img src="assets/img/sell-1.jpg" alt="#">
+						<div class="discount">-20%</div>
+					</div>
+					<div class="sell-title">
+						<h4 class="mark">Марка название</h4>
+						<p class="">Описание</p>
+					</div>
+					<div class="sell-panel clearfix">
+						<div class="heart"></div>
+						<div class="gift"></div>
+						<div class="basket"></div>
+						<div class="cost">
+							12099.<span>00</span>
+						</div>
+					</div>
+				</div>
+				<div class="sell-block">
+					<div class="sell-img">
+						<img src="assets/img/sell-1.jpg" alt="#">
+					</div>
+					<div class="sell-title">
+						<h4 class="mark">Марка название</h4>
+						<p class="">Описание</p>
+					</div>
+					<div class="sell-panel clearfix">
+						<div class="heart"></div>
+						<div class="gift"></div>
+						<div class="basket"></div>
+						<div class="cost">
+							12099.<span>00</span>
+						</div>
+					</div>
+				</div>
+				<div class="sell-block">
+					<div class="sell-img">
+						<img src="assets/img/sell-1.jpg" alt="#">
+						<div class="discount">-20%</div>
+					</div>
+					<div class="sell-title">
+						<h4 class="mark">Марка название</h4>
+						<p class="">Описание</p>
+					</div>
+					<div class="sell-panel clearfix">
+						<div class="heart"></div>
+						<div class="gift"></div>
+						<div class="basket"></div>
+						<div class="cost">
+							12099.<span>00</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- text -->
+	<div class="column">
+		<div class="text">
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam esse laboriosam, tenetur totam culpa, repellendus porro quisquam necessitatibus, recusandae odio ullam similique. Itaque ducimus perferendis, consectetur architecto debitis, explicabo voluptate.
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam esse laboriosam, tenetur totam culpa, repellendus porro quisquam necessitatibus, recusandae odio ullam similique. Itaque ducimus perferendis, consectetur architecto debitis, explicabo voluptate.
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam esse laboriosam, tenetur totam culpa, repellendus porro quisquam necessitatibus, recusandae odio ullam similique. Itaque ducimus perferendis, consectetur architecto debitis, explicabo voluptate.
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam esse laboriosam, tenetur totam culpa, repellendus porro quisquam necessitatibus, recusandae odio ullam similique. Itaque ducimus perferendis, consectetur architecto debitis, explicabo voluptate.
+			</p>
+			<a href="#">Далее</a>
+		</div>
+	</div>
 </main>
+<footer>
+	<div class="column">
+		<div class="footer-menu clearfix">
+			<div class="first-column">
+				<div class="title">
+					о компании
+				</div>
+				<ul>
+					<li>
+						<a href="#">Статьи</a>
+					</li>
+					<li>
+						<a href="#">Наши преимущества</a>
+					</li>
+					<li>
+						<a href="#">Отзывы</a>
+					</li>
+					<li>
+						<a href="#">О нас</a>
+					</li>
+				</ul>
+			</div>
+			<div class="seconds-column">
+				<div class="title">
+					Сервис
+				</div>
+				<ul>
+					<li>
+						<a href="#">Доставка и оплата</a>
+					</li>
+					<li>
+						<a href="#">Как заказать</a>
+					</li>
+					<li>
+						<a href="#">Возврат</a>
+					</li>
+					<li>
+						<a href="#">Оферта</a>
+					</li>
+					<li>
+						<a href="#">Обработка персональных </a>
+					</li>
+					<li>
+						<a href="#">FAQ</a>
+					</li>
+				</ul>
+			</div>
+			<div class="third-column">
+				<div class="title">
+					ТОВАРЫ
+				</div>
+				<ul>
+					<li>
+						<a href="#">Все сумки</a>
+					</li>
+					<li>
+						<ul>
+							<li><a href="#">в наличии</a></li>
+							<li><a href="#">кожаные</a></li>
+							<li><a href="#">брендовые</a></li>
+							<li><a href="#">кожзам</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">Кошельки</a>
+					</li>
+					<li>
+						<a href="#">Прочие аксессуары</a>
+					</li>
+				</ul>
+			</div>
+			<div class="fourth-column">
+				<div class="title">
+					способы оплаты
+				</div>
+				<p>Более 40 способов оплаты</p>
+				<ul>
+					<li>
+						<a href="#">
+							<img src="assets/img/card.png" alt="img">
+						</a>
+					</li>
+				</ul>
+				<p><a href="#">Другие способы оплаты</a></p>
+				<div class="title">
+					МЫ В СОЦ СЕТЯХ
+				</div>
+				<ul>
+					<li>
+						<a href="#">
+							<img src="assets/img/social/vk.png" alt="#">
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="assets/img/social/vk.png" alt="#">
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="assets/img/social/vk.png" alt="#">
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="assets/img/social/vk.png" alt="#">
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="assets/img/social/vk.png" alt="#">
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="footer-bottom clearfix">
+			<div class="left-text">
+				<p>Copyright © 2015</p>
+				<p>Деловые сумки №1 недорого СПб, Москва</p>
+				<p>Доставка бесплатно + подарок</p>
+			</div>
+			<div class="right-text">
+				<a href="#" class="number">+7 (812) 981-60-14</a>
+				<p>с 9.00 до 21.00  без выходных</p>
+				<p>nfo@ikuplu-shop.ru</p>
+			</div>
+		</div>
+	</div>
+</footer>
